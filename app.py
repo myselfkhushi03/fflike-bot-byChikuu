@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 # ✅ Valid API keys
 VALID_API_KEYS = {
-    "Anurag"  # don't change warna api or bot dono nhi chalega 
+    "Chikuuu"  # don't change warna api or bot dono nhi chalega 
 }
 
 # 🔢 Like limit tracking
